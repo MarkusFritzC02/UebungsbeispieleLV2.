@@ -7,6 +7,7 @@ public class CalcFaculty {
         System.out.println(calcFaculty(4));
         System.out.println(calcFaculty(5));
         System.out.println(calcFaculty(11));
+        System.out.println(calcFaculty(15));
         System.out.println(calcFaculty(20));
     }
 
