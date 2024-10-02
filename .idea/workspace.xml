@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9538f6cb-31b0-49cd-8dc6-34461f1def89" name="Changes" comment="Übung 3 gelöst. TurmDemo">
-      <change afterPath="$PROJECT_DIR$/../UebungsbeispieleLV2/src/CalcFaculty.java" afterDir="false" />
+    <list default="true" id="9538f6cb-31b0-49cd-8dc6-34461f1def89" name="Changes" comment="Übung B1 gelöst. Fakultät">
+      <change afterPath="$PROJECT_DIR$/../UebungsbeispieleLV2/src/CurrencyExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UebungsbeispieleLV2/src/PingPong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UebungsbeispieleLV2/src/TemperaturUmrechnung.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UebungsbeispieleLV2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UebungsbeispieleLV2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +37,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CalcFaculty.executor": "Run",
+    "Application.CurrencyExchange.executor": "Run",
     "Application.NotenDemo.executor": "Run",
+    "Application.TemperaturUmrechnung.executor": "Run",
     "Application.TurmDemo.executor": "Run",
     "Application.WinterreifenpflichtDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -90,13 +94,30 @@
       <option name="project" value="LOCAL" />
       <updated>1727803572128</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Übung 3 gelöst. TurmDemo">
+      <option name="closed" value="true" />
+      <created>1727807027653</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727807027653</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Übung B1 gelöst. Fakultät">
+      <option name="closed" value="true" />
+      <created>1727807064005</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727807064005</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Übung beendet. Funktioniert" />
     <MESSAGE value="Übung 2 gelöst, vielleicht später elegantere Lösung finden" />
     <MESSAGE value="Übung 3 gelöst. TurmDemo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Übung 3 gelöst. TurmDemo" />
+    <MESSAGE value="Übung B1 gelöst. Fakultät" />
+    <option name="LAST_COMMIT_MESSAGE" value="Übung B1 gelöst. Fakultät" />
   </component>
 </project>
