@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9538f6cb-31b0-49cd-8dc6-34461f1def89" name="Changes" comment="Übung B3 CurrencyExchange und Übung B4 TemperaturUmrechnung begonnen und gelöst.&#10;Übung B2 PingPong begonnen">
-      <change beforePath="$PROJECT_DIR$/../UebungsbeispieleLV2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UebungsbeispieleLV2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UebungsbeispieleLV2/src/PingPong.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UebungsbeispieleLV2/src/PingPong.java" afterDir="false" />
-    </list>
+    <list default="true" id="9538f6cb-31b0-49cd-8dc6-34461f1def89" name="Changes" comment="Übung B2 PingPong gelöst" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727873729481</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Übung B2 PingPong gelöst">
+      <option name="closed" value="true" />
+      <created>1727893545292</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727893545292</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,6 +131,7 @@
     <MESSAGE value="Übung 3 gelöst. TurmDemo" />
     <MESSAGE value="Übung B1 gelöst. Fakultät" />
     <MESSAGE value="Übung B3 CurrencyExchange und Übung B4 TemperaturUmrechnung begonnen und gelöst.&#10;Übung B2 PingPong begonnen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Übung B3 CurrencyExchange und Übung B4 TemperaturUmrechnung begonnen und gelöst.&#10;Übung B2 PingPong begonnen" />
+    <MESSAGE value="Übung B2 PingPong gelöst" />
+    <option name="LAST_COMMIT_MESSAGE" value="Übung B2 PingPong gelöst" />
   </component>
 </project>
