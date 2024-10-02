@@ -16,7 +16,7 @@ public class WinterreifenpflichtDemo {
         } else {
             System.out.println("Winterreifen sind nicht erforderlich");
         }
-        if (isWinterreifenPflicht(12, false)) {
+        if (isWinterreifenPflicht(12, true)) {
             System.out.println("Bitte Winterreifen verwenden");
         } else {
             System.out.println("Winterreifen sind nicht erforderlich");
